@@ -14,5 +14,5 @@ This project is about detection of the boom of heavy duty vehicles and track its
 
 ## Authors
 
-- [@himanshu-kr-jha](https://www.github.com/himanshu-kr-jha)
+[@himanshu-kr-jha](https://www.github.com/himanshu-kr-jha)
 
